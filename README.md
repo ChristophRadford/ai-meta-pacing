@@ -1,10 +1,3 @@
----
-
-## 3. README for `ai-meta-pacing`
-
-Paste into `ai-meta-pacing/README.md`:
-
-```markdown
 # AI Meta Pacing
 
 Tools for **budget pacing and delivery monitoring** across Meta campaigns.
